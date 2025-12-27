@@ -4,7 +4,7 @@
 
 📊I analyze data and turn them into data-driven decisions!
 
-🤔I input my projects here if I have ideas that pop into my head
+🤔I input my projects here if I have ideas that pop into my head. My best one so far is my [airline customer segmentation](https://github.com/mitadian/airline_customer_segmentation)
 
 ⭐My interest is in e-commerce, and I am skilled in data preprocessing, data processing, data analysis, and machine learning with tools like Python, SQL, Power BI, and Tableau.
 
